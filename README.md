@@ -6,4 +6,4 @@ Rotation 1 & 2 - NETS (Networking Engineering/Telecommunications) October 1st to
 
 Rotation 3 - DECS (Data Engineering) Janurary 6th to February 28th
 
-Rotation 4 - CSG (Cyber Security) March 2nd - May 1st
+Rotation 4 - CSG (Consulting Services Group) March 2nd - May 1st
